@@ -33,20 +33,15 @@ section.filters button {
   border-right: 1px solid #dddddd;
 }
 
-h3,
-h4 {
-  margin: 0px;
-}
-
 .locations h3,
 .amenities h3 {
   font-weight: 600;
-  margin: 12px 0 5px 0;
+  margin: 15px 0 5px 0;
 }
 
 .locations h4,
 .amenities h4 {
   font-weight: 400;
   font-size: 14px;
-  margin: 0 0 0 0;
+  margin: 0px;
 }
